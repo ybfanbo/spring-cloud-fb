@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/parent-pom/pom.xml" />
+        <option value="$PROJECT_DIR$/user-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/user-dao/user-dao-apis/pom.xml" />
+        <option value="$PROJECT_DIR$/user-dao/user-dao-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/order-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/order-dao/order-dao-apis/pom.xml" />
+        <option value="$PROJECT_DIR$/order-dao/order-dao-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/user-service-apis/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/user-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/order-service-apis/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/order-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/fb-app-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/fb-h5-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/common-module/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-server/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/parent-pom/parent-pom-global/pom.xml" />
+      </set>
+    </option>
+  </component>
+</project>

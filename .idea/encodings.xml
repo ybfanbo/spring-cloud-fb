@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fb-app-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fb-h5-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-dao/order-dao-apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-dao/order-dao-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/order-service-apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/order-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent-pom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent-pom-global" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent-pom/parent-pom-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent-pom/parent-pom-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parent-pom/parent-pom-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-parent-pom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao-apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao/user-dao-apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao/user-dao-apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-dao/user-dao-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-service-apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/user-service-impl" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-module/common-module.iml" filepath="$PROJECT_DIR$/common-module/common-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fb-app-controller/fb-app-controller.iml" filepath="$PROJECT_DIR$/fb-app-controller/fb-app-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fb-h5-controller/fb-h5-controller.iml" filepath="$PROJECT_DIR$/fb-h5-controller/fb-h5-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-dao/order-dao.iml" filepath="$PROJECT_DIR$/order-dao/order-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-dao/order-dao-apis/order-dao-apis.iml" filepath="$PROJECT_DIR$/order-dao/order-dao-apis/order-dao-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-dao/order-dao-impl/order-dao-impl.iml" filepath="$PROJECT_DIR$/order-dao/order-dao-impl/order-dao-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service-apis/order-service-apis.iml" filepath="$PROJECT_DIR$/order-service/order-service-apis/order-service-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service-impl/order-service-impl.iml" filepath="$PROJECT_DIR$/order-service/order-service-impl/order-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-pom/parent-pom.iml" filepath="$PROJECT_DIR$/parent-pom/parent-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-pom/parent-pom-controller/parent-pom-controller.iml" filepath="$PROJECT_DIR$/parent-pom/parent-pom-controller/parent-pom-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-pom/parent-pom-dao/parent-pom-dao.iml" filepath="$PROJECT_DIR$/parent-pom/parent-pom-dao/parent-pom-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-pom/parent-pom-service/parent-pom-service.iml" filepath="$PROJECT_DIR$/parent-pom/parent-pom-service/parent-pom-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-fb.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-fb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-dao/user-dao.iml" filepath="$PROJECT_DIR$/user-dao/user-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-dao/user-dao-apis/user-dao-apis.iml" filepath="$PROJECT_DIR$/user-dao/user-dao-apis/user-dao-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-dao/user-dao-impl/user-dao-impl.iml" filepath="$PROJECT_DIR$/user-dao/user-dao-impl/user-dao-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service-apis/user-service-apis.iml" filepath="$PROJECT_DIR$/user-service/user-service-apis/user-service-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service-impl/user-service-impl.iml" filepath="$PROJECT_DIR$/user-service/user-service-impl/user-service-impl.iml" />
+    </modules>
+  </component>
+</project>

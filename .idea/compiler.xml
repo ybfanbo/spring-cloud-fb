@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-module" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="fb-app-controller" />
+        <module name="fb-h5-controller" />
+        <module name="gateway-server" />
+        <module name="order-dao-apis" />
+        <module name="order-dao-impl" />
+        <module name="order-service-apis" />
+        <module name="order-service-impl" />
+        <module name="parent-pom-controller" />
+        <module name="parent-pom-dao" />
+        <module name="parent-pom-service" />
+        <module name="user-dao-apis" />
+        <module name="user-dao-impl" />
+        <module name="user-service-apis" />
+        <module name="user-service-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app-controller" target="1.8" />
+      <module name="common-module" target="1.5" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="fb-app-controller" target="1.8" />
+      <module name="fb-h5-controller" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="order-dao" target="1.8" />
+      <module name="order-dao-apis" target="1.8" />
+      <module name="order-dao-impl" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="order-service-apis" target="1.8" />
+      <module name="order-service-impl" target="1.8" />
+      <module name="parent-pom" target="1.8" />
+      <module name="parent-pom-controller" target="1.8" />
+      <module name="parent-pom-dao" target="1.8" />
+      <module name="parent-pom-global" target="1.5" />
+      <module name="parent-pom-service" target="1.8" />
+      <module name="server-parent-pom" target="1.8" />
+      <module name="user-dao" target="1.8" />
+      <module name="user-dao-apis" target="1.8" />
+      <module name="user-dao-impl" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="user-service-apis" target="1.8" />
+      <module name="user-service-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="app-controller" options="-parameters" />
+      <module name="common-module" options="" />
+      <module name="config-server" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="fb-app-controller" options="-parameters" />
+      <module name="fb-h5-controller" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="order-dao" options="-parameters" />
+      <module name="order-dao-apis" options="-parameters" />
+      <module name="order-dao-impl" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="order-service-apis" options="-parameters" />
+      <module name="order-service-impl" options="-parameters" />
+      <module name="parent-pom-controller" options="-parameters" />
+      <module name="parent-pom-dao" options="-parameters" />
+      <module name="parent-pom-global" options="" />
+      <module name="parent-pom-service" options="-parameters" />
+      <module name="user-dao" options="-parameters" />
+      <module name="user-dao-apis" options="-parameters" />
+      <module name="user-dao-impl" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="user-service-apis" options="-parameters" />
+      <module name="user-service-impl" options="-parameters" />
+    </option>
+  </component>
+</project>
